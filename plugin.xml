@@ -21,5 +21,5 @@
 <framework src="com.google.android.gms:play-services-wallet:19.2.1" />
 <framework src="com.android.support:support-v4:26.0.1" />
 <framework src="com.android.support:appcompat-v7:26.0.1" />
-<framework src="com.stripe:stripe-android:6.1.2" />
+<framework src="com.stripe:stripe-android:11.1.4" />
 </platform></plugin>
